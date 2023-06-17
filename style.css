@@ -1,0 +1,15 @@
+* {
+    font-family: monospace;
+    background-color: darkseagreen;
+    text-align: center;
+}
+
+a:hover {
+    font-size: 30px;
+    color: fuchsia;
+    text-shadow: 30px;
+}
+
+img {
+    width: 400px;
+}
