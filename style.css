@@ -1,7 +1,17 @@
 * {
     font-family: monospace;
-    background-color: darkseagreen;
+    background-color: rgb(131, 255, 127);;
     text-align: center;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 30px;
+    font-size: 100px;
+}
+h1:hover {
+    font-size: 70px;
+    transform: skewX(30deg);
 }
 
 a:hover {
